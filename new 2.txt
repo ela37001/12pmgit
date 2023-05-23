@@ -1,0 +1,10 @@
+
+S3-simple storage services
+ this a global access 
+   unlimited data
+   s3 types
+   s3-standard(
+   s3-intelligent-tiering
+   s3-standard-IA
+   and s3-one zone IA
+   
